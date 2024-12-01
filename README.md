@@ -73,9 +73,9 @@ I've always been a person who if something fascinates me then I'd find out how t
 ## ⚡ Statistics ⚡
 
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/noob-rahim/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-rahim&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/noob-rahim/github-readme-stats)
 
- <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="noob-rahim" />
+ <img src="https://github-readme-stats.vercel.app/api?username=noob-rahim&show_icons=true&count_private=true&theme=nightowl" alt="noob-rahim" />
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noob-rahim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&card_width=650)](https://git.io/streak-stats)
