@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SaJiD.</h1>
+<h1 align="center">Hi 👋, I'm Rahim.</h1>
 <h3 align="center" style="color:pink">A passionate CS Undergrad Student from Bangladesh.</h3>
 
 <div align="center">
@@ -73,11 +73,11 @@ I've always been a person who if something fascinates me then I'd find out how t
 ## ⚡ Statistics ⚡
 
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/sajid1495/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1495&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/noob-rahim/github-readme-stats)
 
- <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="sajid1495" />
+ <img src="https://github-readme-stats.vercel.app/api?username=sajid1495&show_icons=true&count_private=true&theme=nightowl" alt="noob-rahim" />
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1495&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&card_width=650)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noob-rahim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&card_width=650)](https://git.io/streak-stats)
 
 </div>
